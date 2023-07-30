@@ -8,7 +8,7 @@ import java.util.Map;
 
 public class App {
     public String getGreeting() {
-        return "Hello World!";
+        return "Good bye World!";
     }
 
     public static void main(String[] args) {
